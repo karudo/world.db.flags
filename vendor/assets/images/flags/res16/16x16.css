@@ -1,0 +1,2053 @@
+/* glue: 0.11.1 hash: 759a3a6506 */
+        .sprite-16x16-zzzUnknown,
+.sprite-16x16-zw,
+.sprite-16x16-zm,
+.sprite-16x16-za,
+.sprite-16x16-yt,
+.sprite-16x16-ye,
+.sprite-16x16-yc,
+.sprite-16x16-ws,
+.sprite-16x16-wf,
+.sprite-16x16-wa,
+.sprite-16x16-vu,
+.sprite-16x16-vn,
+.sprite-16x16-vi,
+.sprite-16x16-vg,
+.sprite-16x16-ve,
+.sprite-16x16-vc,
+.sprite-16x16-va,
+.sprite-16x16-uz,
+.sprite-16x16-uy,
+.sprite-16x16-us,
+.sprite-16x16-um,
+.sprite-16x16-ug,
+.sprite-16x16-ua,
+.sprite-16x16-tz,
+.sprite-16x16-tw,
+.sprite-16x16-tv,
+.sprite-16x16-tt,
+.sprite-16x16-tr,
+.sprite-16x16-to,
+.sprite-16x16-tn,
+.sprite-16x16-tm,
+.sprite-16x16-tl,
+.sprite-16x16-tk,
+.sprite-16x16-tj,
+.sprite-16x16-th,
+.sprite-16x16-tg,
+.sprite-16x16-tf,
+.sprite-16x16-td,
+.sprite-16x16-tc,
+.sprite-16x16-sz,
+.sprite-16x16-sy,
+.sprite-16x16-sx,
+.sprite-16x16-sv,
+.sprite-16x16-st,
+.sprite-16x16-ss,
+.sprite-16x16-sr,
+.sprite-16x16-so,
+.sprite-16x16-sn,
+.sprite-16x16-sm,
+.sprite-16x16-sl,
+.sprite-16x16-sk,
+.sprite-16x16-sj,
+.sprite-16x16-si,
+.sprite-16x16-sh,
+.sprite-16x16-sg,
+.sprite-16x16-se,
+.sprite-16x16-sd,
+.sprite-16x16-sc,
+.sprite-16x16-sb,
+.sprite-16x16-sa,
+.sprite-16x16-rw,
+.sprite-16x16-ru,
+.sprite-16x16-rs,
+.sprite-16x16-ro,
+.sprite-16x16-re,
+.sprite-16x16-qa,
+.sprite-16x16-py,
+.sprite-16x16-pw,
+.sprite-16x16-pt,
+.sprite-16x16-ps,
+.sprite-16x16-pr,
+.sprite-16x16-pn,
+.sprite-16x16-pm,
+.sprite-16x16-pl,
+.sprite-16x16-pk,
+.sprite-16x16-ph,
+.sprite-16x16-pg,
+.sprite-16x16-pf,
+.sprite-16x16-pe,
+.sprite-16x16-pa,
+.sprite-16x16-om,
+.sprite-16x16-nz,
+.sprite-16x16-nu,
+.sprite-16x16-nr,
+.sprite-16x16-np,
+.sprite-16x16-no,
+.sprite-16x16-nl,
+.sprite-16x16-ni,
+.sprite-16x16-ng,
+.sprite-16x16-nf,
+.sprite-16x16-ne,
+.sprite-16x16-nd,
+.sprite-16x16-nc,
+.sprite-16x16-na,
+.sprite-16x16-mz,
+.sprite-16x16-my,
+.sprite-16x16-mx,
+.sprite-16x16-mw,
+.sprite-16x16-mv,
+.sprite-16x16-mu,
+.sprite-16x16-mt,
+.sprite-16x16-ms,
+.sprite-16x16-mr,
+.sprite-16x16-mq,
+.sprite-16x16-mp,
+.sprite-16x16-mo,
+.sprite-16x16-mn,
+.sprite-16x16-mm,
+.sprite-16x16-ml,
+.sprite-16x16-mk,
+.sprite-16x16-mh,
+.sprite-16x16-mg,
+.sprite-16x16-mf,
+.sprite-16x16-me,
+.sprite-16x16-md,
+.sprite-16x16-mc,
+.sprite-16x16-ma,
+.sprite-16x16-ly,
+.sprite-16x16-lv,
+.sprite-16x16-lu,
+.sprite-16x16-lt,
+.sprite-16x16-ls,
+.sprite-16x16-lr,
+.sprite-16x16-lk,
+.sprite-16x16-li,
+.sprite-16x16-lc,
+.sprite-16x16-lb,
+.sprite-16x16-la,
+.sprite-16x16-kz,
+.sprite-16x16-ky,
+.sprite-16x16-kw,
+.sprite-16x16-kr,
+.sprite-16x16-kp,
+.sprite-16x16-kn,
+.sprite-16x16-km,
+.sprite-16x16-ki,
+.sprite-16x16-kh,
+.sprite-16x16-kg,
+.sprite-16x16-ke,
+.sprite-16x16-jp,
+.sprite-16x16-jo,
+.sprite-16x16-jm,
+.sprite-16x16-je,
+.sprite-16x16-it,
+.sprite-16x16-is,
+.sprite-16x16-ir,
+.sprite-16x16-iq,
+.sprite-16x16-io,
+.sprite-16x16-in,
+.sprite-16x16-im,
+.sprite-16x16-il,
+.sprite-16x16-ie,
+.sprite-16x16-id,
+.sprite-16x16-hu,
+.sprite-16x16-ht,
+.sprite-16x16-hr,
+.sprite-16x16-hn,
+.sprite-16x16-hm,
+.sprite-16x16-hk,
+.sprite-16x16-gy,
+.sprite-16x16-gw,
+.sprite-16x16-gu,
+.sprite-16x16-gt,
+.sprite-16x16-gs,
+.sprite-16x16-gr,
+.sprite-16x16-gq,
+.sprite-16x16-gp,
+.sprite-16x16-gn,
+.sprite-16x16-gm,
+.sprite-16x16-gl,
+.sprite-16x16-gi,
+.sprite-16x16-gh,
+.sprite-16x16-gg,
+.sprite-16x16-gf,
+.sprite-16x16-ge,
+.sprite-16x16-gd,
+.sprite-16x16-gb,
+.sprite-16x16-ga,
+.sprite-16x16-fr,
+.sprite-16x16-fo,
+.sprite-16x16-fm,
+.sprite-16x16-fk,
+.sprite-16x16-fj,
+.sprite-16x16-fi,
+.sprite-16x16-eu,
+.sprite-16x16-et,
+.sprite-16x16-es,
+.sprite-16x16-er,
+.sprite-16x16-en,
+.sprite-16x16-eh,
+.sprite-16x16-eg,
+.sprite-16x16-ee,
+.sprite-16x16-ec,
+.sprite-16x16-dz,
+.sprite-16x16-do,
+.sprite-16x16-dm,
+.sprite-16x16-dk,
+.sprite-16x16-dj,
+.sprite-16x16-de,
+.sprite-16x16-cz,
+.sprite-16x16-cy,
+.sprite-16x16-cx,
+.sprite-16x16-cw,
+.sprite-16x16-cv,
+.sprite-16x16-cu,
+.sprite-16x16-cr,
+.sprite-16x16-co,
+.sprite-16x16-cn,
+.sprite-16x16-cm,
+.sprite-16x16-cl,
+.sprite-16x16-ck,
+.sprite-16x16-ci,
+.sprite-16x16-ch,
+.sprite-16x16-cg,
+.sprite-16x16-cf,
+.sprite-16x16-cd,
+.sprite-16x16-cc,
+.sprite-16x16-ca,
+.sprite-16x16-bz,
+.sprite-16x16-by,
+.sprite-16x16-bw,
+.sprite-16x16-bv,
+.sprite-16x16-bt,
+.sprite-16x16-bs,
+.sprite-16x16-br,
+.sprite-16x16-bo,
+.sprite-16x16-bn,
+.sprite-16x16-bm,
+.sprite-16x16-bl,
+.sprite-16x16-bj,
+.sprite-16x16-bi,
+.sprite-16x16-bh,
+.sprite-16x16-bg,
+.sprite-16x16-bf,
+.sprite-16x16-be,
+.sprite-16x16-bd,
+.sprite-16x16-bb,
+.sprite-16x16-ba,
+.sprite-16x16-az,
+.sprite-16x16-ax,
+.sprite-16x16-aw,
+.sprite-16x16-au,
+.sprite-16x16-at,
+.sprite-16x16-as,
+.sprite-16x16-ar,
+.sprite-16x16-aq,
+.sprite-16x16-ao,
+.sprite-16x16-an,
+.sprite-16x16-am,
+.sprite-16x16-al,
+.sprite-16x16-ai,
+.sprite-16x16-ag,
+.sprite-16x16-af,
+.sprite-16x16-ae,
+.sprite-16x16-ad {
+            background-image: url('16x16.png');
+            background-repeat: no-repeat;
+        }
+        
+        .sprite-16x16-zzzUnknown {
+            background-position: 0 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-zw {
+            background-position: -32px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-zm {
+            background-position: -64px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-za {
+            background-position: -96px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-yt {
+            background-position: -128px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ye {
+            background-position: -160px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-yc {
+            background-position: -192px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ws {
+            background-position: -224px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-wf {
+            background-position: -256px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-wa {
+            background-position: -288px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-vu {
+            background-position: -320px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-vn {
+            background-position: -352px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-vi {
+            background-position: -384px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-vg {
+            background-position: -416px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ve {
+            background-position: -448px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-vc {
+            background-position: -480px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-va {
+            background-position: -512px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-uz {
+            background-position: -544px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-uy {
+            background-position: -576px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-us {
+            background-position: -608px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-um {
+            background-position: -640px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ug {
+            background-position: -672px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ua {
+            background-position: -704px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tz {
+            background-position: -736px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tw {
+            background-position: -768px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tv {
+            background-position: -800px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tt {
+            background-position: -832px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tr {
+            background-position: -864px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-to {
+            background-position: -896px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tn {
+            background-position: -928px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tm {
+            background-position: -960px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tl {
+            background-position: -992px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tk {
+            background-position: -1024px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tj {
+            background-position: -1056px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-th {
+            background-position: -1088px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tg {
+            background-position: -1120px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tf {
+            background-position: -1152px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-td {
+            background-position: -1184px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-tc {
+            background-position: -1216px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sz {
+            background-position: -1248px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sy {
+            background-position: -1280px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sx {
+            background-position: -1312px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sv {
+            background-position: -1344px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-st {
+            background-position: -1376px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ss {
+            background-position: -1408px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sr {
+            background-position: -1440px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-so {
+            background-position: -1472px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sn {
+            background-position: -1504px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sm {
+            background-position: -1536px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sl {
+            background-position: -1568px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sk {
+            background-position: -1600px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sj {
+            background-position: -1632px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-si {
+            background-position: -1664px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sh {
+            background-position: -1696px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sg {
+            background-position: -1728px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-se {
+            background-position: -1760px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sd {
+            background-position: -1792px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sc {
+            background-position: -1824px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sb {
+            background-position: -1856px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-sa {
+            background-position: -1888px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-rw {
+            background-position: -1920px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ru {
+            background-position: -1952px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-rs {
+            background-position: -1984px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ro {
+            background-position: -2016px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-re {
+            background-position: -2048px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-qa {
+            background-position: -2080px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-py {
+            background-position: -2112px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pw {
+            background-position: -2144px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pt {
+            background-position: -2176px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ps {
+            background-position: -2208px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pr {
+            background-position: -2240px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pn {
+            background-position: -2272px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pm {
+            background-position: -2304px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pl {
+            background-position: -2336px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pk {
+            background-position: -2368px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ph {
+            background-position: -2400px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pg {
+            background-position: -2432px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pf {
+            background-position: -2464px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pe {
+            background-position: -2496px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-pa {
+            background-position: -2528px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-om {
+            background-position: -2560px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nz {
+            background-position: -2592px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nu {
+            background-position: -2624px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nr {
+            background-position: -2656px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-np {
+            background-position: -2688px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-no {
+            background-position: -2720px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nl {
+            background-position: -2752px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ni {
+            background-position: -2784px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ng {
+            background-position: -2816px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nf {
+            background-position: -2848px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ne {
+            background-position: -2880px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nd {
+            background-position: -2912px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-nc {
+            background-position: -2944px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-na {
+            background-position: -2976px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mz {
+            background-position: -3008px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-my {
+            background-position: -3040px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mx {
+            background-position: -3072px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mw {
+            background-position: -3104px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mv {
+            background-position: -3136px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mu {
+            background-position: -3168px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mt {
+            background-position: -3200px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ms {
+            background-position: -3232px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mr {
+            background-position: -3264px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mq {
+            background-position: -3296px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mp {
+            background-position: -3328px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mo {
+            background-position: -3360px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mn {
+            background-position: -3392px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mm {
+            background-position: -3424px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ml {
+            background-position: -3456px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mk {
+            background-position: -3488px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mh {
+            background-position: -3520px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mg {
+            background-position: -3552px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mf {
+            background-position: -3584px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-me {
+            background-position: -3616px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-md {
+            background-position: -3648px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-mc {
+            background-position: -3680px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ma {
+            background-position: -3712px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ly {
+            background-position: -3744px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lv {
+            background-position: -3776px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lu {
+            background-position: -3808px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lt {
+            background-position: -3840px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ls {
+            background-position: -3872px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lr {
+            background-position: -3904px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lk {
+            background-position: -3936px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-li {
+            background-position: -3968px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lc {
+            background-position: -4000px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-lb {
+            background-position: -4032px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-la {
+            background-position: -4064px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kz {
+            background-position: -4096px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ky {
+            background-position: -4128px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kw {
+            background-position: -4160px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kr {
+            background-position: -4192px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kp {
+            background-position: -4224px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kn {
+            background-position: -4256px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-km {
+            background-position: -4288px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ki {
+            background-position: -4320px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kh {
+            background-position: -4352px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-kg {
+            background-position: -4384px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ke {
+            background-position: -4416px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-jp {
+            background-position: -4448px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-jo {
+            background-position: -4480px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-jm {
+            background-position: -4512px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-je {
+            background-position: -4544px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-it {
+            background-position: -4576px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-is {
+            background-position: -4608px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ir {
+            background-position: -4640px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-iq {
+            background-position: -4672px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-io {
+            background-position: -4704px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-in {
+            background-position: -4736px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-im {
+            background-position: -4768px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-il {
+            background-position: -4800px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ie {
+            background-position: -4832px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-id {
+            background-position: -4864px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-hu {
+            background-position: -4896px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ht {
+            background-position: -4928px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-hr {
+            background-position: -4960px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-hn {
+            background-position: -4992px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-hm {
+            background-position: -5024px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-hk {
+            background-position: -5056px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gy {
+            background-position: -5088px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gw {
+            background-position: -5120px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gu {
+            background-position: -5152px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gt {
+            background-position: -5184px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gs {
+            background-position: -5216px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gr {
+            background-position: -5248px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gq {
+            background-position: -5280px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gp {
+            background-position: -5312px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gn {
+            background-position: -5344px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gm {
+            background-position: -5376px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gl {
+            background-position: -5408px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gi {
+            background-position: -5440px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gh {
+            background-position: -5472px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gg {
+            background-position: -5504px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gf {
+            background-position: -5536px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ge {
+            background-position: -5568px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gd {
+            background-position: -5600px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-gb {
+            background-position: -5632px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ga {
+            background-position: -5664px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fr {
+            background-position: -5696px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fo {
+            background-position: -5728px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fm {
+            background-position: -5760px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fk {
+            background-position: -5792px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fj {
+            background-position: -5824px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-fi {
+            background-position: -5856px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-eu {
+            background-position: -5888px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-et {
+            background-position: -5920px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-es {
+            background-position: -5952px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-er {
+            background-position: -5984px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-en {
+            background-position: -6016px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-eh {
+            background-position: -6048px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-eg {
+            background-position: -6080px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ee {
+            background-position: -6112px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ec {
+            background-position: -6144px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-dz {
+            background-position: -6176px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-do {
+            background-position: -6208px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-dm {
+            background-position: -6240px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-dk {
+            background-position: -6272px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-dj {
+            background-position: -6304px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-de {
+            background-position: -6336px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cz {
+            background-position: -6368px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cy {
+            background-position: -6400px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cx {
+            background-position: -6432px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cw {
+            background-position: -6464px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cv {
+            background-position: -6496px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cu {
+            background-position: -6528px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cr {
+            background-position: -6560px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-co {
+            background-position: -6592px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cn {
+            background-position: -6624px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cm {
+            background-position: -6656px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cl {
+            background-position: -6688px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ck {
+            background-position: -6720px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ci {
+            background-position: -6752px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ch {
+            background-position: -6784px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cg {
+            background-position: -6816px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cf {
+            background-position: -6848px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cd {
+            background-position: -6880px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-cc {
+            background-position: -6912px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ca {
+            background-position: -6944px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bz {
+            background-position: -6976px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-by {
+            background-position: -7008px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bw {
+            background-position: -7040px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bv {
+            background-position: -7072px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bt {
+            background-position: -7104px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bs {
+            background-position: -7136px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-br {
+            background-position: -7168px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bo {
+            background-position: -7200px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bn {
+            background-position: -7232px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bm {
+            background-position: -7264px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bl {
+            background-position: -7296px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bj {
+            background-position: -7328px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bi {
+            background-position: -7360px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bh {
+            background-position: -7392px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bg {
+            background-position: -7424px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bf {
+            background-position: -7456px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-be {
+            background-position: -7488px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bd {
+            background-position: -7520px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-bb {
+            background-position: -7552px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ba {
+            background-position: -7584px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-az {
+            background-position: -7616px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ax {
+            background-position: -7648px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-aw {
+            background-position: -7680px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-au {
+            background-position: -7712px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-at {
+            background-position: -7744px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-as {
+            background-position: -7776px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ar {
+            background-position: -7808px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-aq {
+            background-position: -7840px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ao {
+            background-position: -7872px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-an {
+            background-position: -7904px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-am {
+            background-position: -7936px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-al {
+            background-position: -7968px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ai {
+            background-position: -8000px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ag {
+            background-position: -8032px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-af {
+            background-position: -8064px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ae {
+            background-position: -8096px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        .sprite-16x16-ad {
+            background-position: -8128px 0;
+            width: 32px;
+            height: 32px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .sprite-16x16-zzzUnknown,
+    .sprite-16x16-zw,
+    .sprite-16x16-zm,
+    .sprite-16x16-za,
+    .sprite-16x16-yt,
+    .sprite-16x16-ye,
+    .sprite-16x16-yc,
+    .sprite-16x16-ws,
+    .sprite-16x16-wf,
+    .sprite-16x16-wa,
+    .sprite-16x16-vu,
+    .sprite-16x16-vn,
+    .sprite-16x16-vi,
+    .sprite-16x16-vg,
+    .sprite-16x16-ve,
+    .sprite-16x16-vc,
+    .sprite-16x16-va,
+    .sprite-16x16-uz,
+    .sprite-16x16-uy,
+    .sprite-16x16-us,
+    .sprite-16x16-um,
+    .sprite-16x16-ug,
+    .sprite-16x16-ua,
+    .sprite-16x16-tz,
+    .sprite-16x16-tw,
+    .sprite-16x16-tv,
+    .sprite-16x16-tt,
+    .sprite-16x16-tr,
+    .sprite-16x16-to,
+    .sprite-16x16-tn,
+    .sprite-16x16-tm,
+    .sprite-16x16-tl,
+    .sprite-16x16-tk,
+    .sprite-16x16-tj,
+    .sprite-16x16-th,
+    .sprite-16x16-tg,
+    .sprite-16x16-tf,
+    .sprite-16x16-td,
+    .sprite-16x16-tc,
+    .sprite-16x16-sz,
+    .sprite-16x16-sy,
+    .sprite-16x16-sx,
+    .sprite-16x16-sv,
+    .sprite-16x16-st,
+    .sprite-16x16-ss,
+    .sprite-16x16-sr,
+    .sprite-16x16-so,
+    .sprite-16x16-sn,
+    .sprite-16x16-sm,
+    .sprite-16x16-sl,
+    .sprite-16x16-sk,
+    .sprite-16x16-sj,
+    .sprite-16x16-si,
+    .sprite-16x16-sh,
+    .sprite-16x16-sg,
+    .sprite-16x16-se,
+    .sprite-16x16-sd,
+    .sprite-16x16-sc,
+    .sprite-16x16-sb,
+    .sprite-16x16-sa,
+    .sprite-16x16-rw,
+    .sprite-16x16-ru,
+    .sprite-16x16-rs,
+    .sprite-16x16-ro,
+    .sprite-16x16-re,
+    .sprite-16x16-qa,
+    .sprite-16x16-py,
+    .sprite-16x16-pw,
+    .sprite-16x16-pt,
+    .sprite-16x16-ps,
+    .sprite-16x16-pr,
+    .sprite-16x16-pn,
+    .sprite-16x16-pm,
+    .sprite-16x16-pl,
+    .sprite-16x16-pk,
+    .sprite-16x16-ph,
+    .sprite-16x16-pg,
+    .sprite-16x16-pf,
+    .sprite-16x16-pe,
+    .sprite-16x16-pa,
+    .sprite-16x16-om,
+    .sprite-16x16-nz,
+    .sprite-16x16-nu,
+    .sprite-16x16-nr,
+    .sprite-16x16-np,
+    .sprite-16x16-no,
+    .sprite-16x16-nl,
+    .sprite-16x16-ni,
+    .sprite-16x16-ng,
+    .sprite-16x16-nf,
+    .sprite-16x16-ne,
+    .sprite-16x16-nd,
+    .sprite-16x16-nc,
+    .sprite-16x16-na,
+    .sprite-16x16-mz,
+    .sprite-16x16-my,
+    .sprite-16x16-mx,
+    .sprite-16x16-mw,
+    .sprite-16x16-mv,
+    .sprite-16x16-mu,
+    .sprite-16x16-mt,
+    .sprite-16x16-ms,
+    .sprite-16x16-mr,
+    .sprite-16x16-mq,
+    .sprite-16x16-mp,
+    .sprite-16x16-mo,
+    .sprite-16x16-mn,
+    .sprite-16x16-mm,
+    .sprite-16x16-ml,
+    .sprite-16x16-mk,
+    .sprite-16x16-mh,
+    .sprite-16x16-mg,
+    .sprite-16x16-mf,
+    .sprite-16x16-me,
+    .sprite-16x16-md,
+    .sprite-16x16-mc,
+    .sprite-16x16-ma,
+    .sprite-16x16-ly,
+    .sprite-16x16-lv,
+    .sprite-16x16-lu,
+    .sprite-16x16-lt,
+    .sprite-16x16-ls,
+    .sprite-16x16-lr,
+    .sprite-16x16-lk,
+    .sprite-16x16-li,
+    .sprite-16x16-lc,
+    .sprite-16x16-lb,
+    .sprite-16x16-la,
+    .sprite-16x16-kz,
+    .sprite-16x16-ky,
+    .sprite-16x16-kw,
+    .sprite-16x16-kr,
+    .sprite-16x16-kp,
+    .sprite-16x16-kn,
+    .sprite-16x16-km,
+    .sprite-16x16-ki,
+    .sprite-16x16-kh,
+    .sprite-16x16-kg,
+    .sprite-16x16-ke,
+    .sprite-16x16-jp,
+    .sprite-16x16-jo,
+    .sprite-16x16-jm,
+    .sprite-16x16-je,
+    .sprite-16x16-it,
+    .sprite-16x16-is,
+    .sprite-16x16-ir,
+    .sprite-16x16-iq,
+    .sprite-16x16-io,
+    .sprite-16x16-in,
+    .sprite-16x16-im,
+    .sprite-16x16-il,
+    .sprite-16x16-ie,
+    .sprite-16x16-id,
+    .sprite-16x16-hu,
+    .sprite-16x16-ht,
+    .sprite-16x16-hr,
+    .sprite-16x16-hn,
+    .sprite-16x16-hm,
+    .sprite-16x16-hk,
+    .sprite-16x16-gy,
+    .sprite-16x16-gw,
+    .sprite-16x16-gu,
+    .sprite-16x16-gt,
+    .sprite-16x16-gs,
+    .sprite-16x16-gr,
+    .sprite-16x16-gq,
+    .sprite-16x16-gp,
+    .sprite-16x16-gn,
+    .sprite-16x16-gm,
+    .sprite-16x16-gl,
+    .sprite-16x16-gi,
+    .sprite-16x16-gh,
+    .sprite-16x16-gg,
+    .sprite-16x16-gf,
+    .sprite-16x16-ge,
+    .sprite-16x16-gd,
+    .sprite-16x16-gb,
+    .sprite-16x16-ga,
+    .sprite-16x16-fr,
+    .sprite-16x16-fo,
+    .sprite-16x16-fm,
+    .sprite-16x16-fk,
+    .sprite-16x16-fj,
+    .sprite-16x16-fi,
+    .sprite-16x16-eu,
+    .sprite-16x16-et,
+    .sprite-16x16-es,
+    .sprite-16x16-er,
+    .sprite-16x16-en,
+    .sprite-16x16-eh,
+    .sprite-16x16-eg,
+    .sprite-16x16-ee,
+    .sprite-16x16-ec,
+    .sprite-16x16-dz,
+    .sprite-16x16-do,
+    .sprite-16x16-dm,
+    .sprite-16x16-dk,
+    .sprite-16x16-dj,
+    .sprite-16x16-de,
+    .sprite-16x16-cz,
+    .sprite-16x16-cy,
+    .sprite-16x16-cx,
+    .sprite-16x16-cw,
+    .sprite-16x16-cv,
+    .sprite-16x16-cu,
+    .sprite-16x16-cr,
+    .sprite-16x16-co,
+    .sprite-16x16-cn,
+    .sprite-16x16-cm,
+    .sprite-16x16-cl,
+    .sprite-16x16-ck,
+    .sprite-16x16-ci,
+    .sprite-16x16-ch,
+    .sprite-16x16-cg,
+    .sprite-16x16-cf,
+    .sprite-16x16-cd,
+    .sprite-16x16-cc,
+    .sprite-16x16-ca,
+    .sprite-16x16-bz,
+    .sprite-16x16-by,
+    .sprite-16x16-bw,
+    .sprite-16x16-bv,
+    .sprite-16x16-bt,
+    .sprite-16x16-bs,
+    .sprite-16x16-br,
+    .sprite-16x16-bo,
+    .sprite-16x16-bn,
+    .sprite-16x16-bm,
+    .sprite-16x16-bl,
+    .sprite-16x16-bj,
+    .sprite-16x16-bi,
+    .sprite-16x16-bh,
+    .sprite-16x16-bg,
+    .sprite-16x16-bf,
+    .sprite-16x16-be,
+    .sprite-16x16-bd,
+    .sprite-16x16-bb,
+    .sprite-16x16-ba,
+    .sprite-16x16-az,
+    .sprite-16x16-ax,
+    .sprite-16x16-aw,
+    .sprite-16x16-au,
+    .sprite-16x16-at,
+    .sprite-16x16-as,
+    .sprite-16x16-ar,
+    .sprite-16x16-aq,
+    .sprite-16x16-ao,
+    .sprite-16x16-an,
+    .sprite-16x16-am,
+    .sprite-16x16-al,
+    .sprite-16x16-ai,
+    .sprite-16x16-ag,
+    .sprite-16x16-af,
+    .sprite-16x16-ae,
+    .sprite-16x16-ad {
+                background-image: url('16x16.png');
+                -webkit-background-size: 8160px 32px;
+                -moz-background-size: 8160px 32px;
+                background-size: 8160px 32px;
+            }
+        }
+        
